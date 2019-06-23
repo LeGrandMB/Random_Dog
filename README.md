@@ -1,2 +1,2 @@
-# Rondom_Dog
+# Random_Dog
 Click to get a random dog
